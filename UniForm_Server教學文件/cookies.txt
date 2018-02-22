@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tad.gitbooks.io	TRUE	/	FALSE	1999999999	gitbook:sess	eyJ2YXJpYW50IjoxLCJhbm9ueW1vdXNJZCI6ImFmMzFkOTM2LTY1NjItNDNlOS04MGVkLTNkOTM4MjkzYTY3OCJ9
+tad.gitbooks.io	TRUE	/	FALSE	1999999999	gitbook:sess.sig	ek0oltt6n6qb5WwlYI7qdV2f1CI
+
